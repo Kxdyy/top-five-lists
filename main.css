@@ -1,0 +1,25 @@
+h1 {
+    color:red;
+    font-size: 80px;
+    text-align: center;
+}
+h2 {
+    color: blue;
+    font-size: 50px;
+    font-family: 'Fjalla One', sans-serif
+  }
+body {
+      background-image: url("tsm.jpg");
+      background-repeat: no-repeat;
+      background-size:cover;
+      background-attachment: fixed;
+}
+ul {
+    list-style: square url("sqpurple.gif");
+    font-size: 40px;
+    color: red;
+}
+ol {
+    font-size: 40px;
+    color: red;
+}
